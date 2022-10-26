@@ -1,6 +1,6 @@
 # BoxOS-kernel
 
-Part of the BoxOS project (Kernel/Linker) [Python 3.10]
+Part of the BoxOS project (Kernel/Linker) **[Python 3.10]**
 
 
 # How it works:
