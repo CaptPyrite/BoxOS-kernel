@@ -1,6 +1,6 @@
 # BoxOS-kernel
 
-Part of the BoxOS project (Kernel/Linker)
+Part of the BoxOS project (Kernel/Linker) [Python 3.10]
 
 
 # How it works:
@@ -24,3 +24,5 @@ cd {directory} - Chage directory
 ```
 
 **RUN: `shell.py`**
+
+
