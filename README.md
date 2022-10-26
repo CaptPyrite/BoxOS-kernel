@@ -20,6 +20,7 @@ touch {filename} - Make a new file
 mkdir {filename} - Make a new directory
 rm {filename} - Delete a file
 rmdir {filename} - Delete a directory
+cd {directory} - Chage directory
 ```
 
 **RUN: `shell.py`**
